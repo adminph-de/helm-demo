@@ -4,4 +4,4 @@ service:
 image:
   tag: latest
 
-replicaCount: 20
+replicaCount: 5

@@ -1,0 +1,7 @@
+service:
+  type: LoadBalancer
+
+image:
+  tag: latest
+
+replicaCount: 20
